@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: 白仕云
+username: baishiyun
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
